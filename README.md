@@ -2,7 +2,7 @@
 <img src="https://github.com/acheamponge/The_Big_3/blob/master/Images/2.jpeg" align="middle">
 
 
-A Natural Language Processing project for focused on YMCMB roster with Drake, Lil Wayne and Nicki Minaj as the big 3.
+A Natural Language Processing project focused on the lyircs of YMCMB roster with Drake, Lil Wayne and Nicki Minaj as the big 3.
 
 ### - Technologies Used
 - Jupyter Notebook
